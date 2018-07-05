@@ -18,4 +18,4 @@
 8- DANS LE FORMULAIRE QUI S'AFFICHE, SAISIR "G04_FLIGHT" COMME LOGIN ET COMME MOT DE PASSE "G04_FLIGHT"
 
 
-NB : Le chargement du css et de certaines images nécessite une connexion internet
+NB : Le chargement du css et de certaines images nÃ©cessite une connexion internet
