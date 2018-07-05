@@ -1,0 +1,14 @@
+INSERT INTO perso_vol values (6,9100,1);
+INSERT INTO perso_vol values (4,9100,1);
+INSERT INTO perso_vol values (6,9100,2);
+INSERT INTO perso_vol values (4,9100,2);
+INSERT INTO perso_vol values (2,9110,3);
+INSERT INTO perso_vol values (3,9110,3);
+INSERT INTO perso_vol values (5,9200,5);
+INSERT INTO perso_vol values (6,9200,5);
+INSERT INTO perso_vol values (1,9310,12);
+INSERT INTO perso_vol values (6,9310,12);
+INSERT INTO perso_vol values (7,9210,8);
+INSERT INTO perso_vol values (3,9210,8);
+
+commit;

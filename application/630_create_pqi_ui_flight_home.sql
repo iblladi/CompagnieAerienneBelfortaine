@@ -1,0 +1,5 @@
+CREATE OR REPLACE PACKAGE UI_HOME AS
+  TYPE sqlcur IS REF CURSOR;
+  procedure accueil;
+END UI_HOME;
+/

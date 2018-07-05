@@ -1,0 +1,23 @@
+.jumbotron.jumbotronhome
+{
+padding-right: 30px;
+padding-left: 30px;
+}
+.radio.radioflight{
+border-radius: 25px;
+border:2px solid gray;
+
+}
+.radio.radioflight label{
+
+margin:10px;
+}
+.billet p
+{
+font-size:15px;!important;
+}
+@media print {
+   #imprimer{
+      display: none;
+   }
+}
